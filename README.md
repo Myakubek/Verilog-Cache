@@ -18,3 +18,27 @@ Because we have double the indexes and the same amount of addresses to map, fewe
 
 ### Eight-Element
 ![alt text](https://github.com/Myakubek/Verilog-Cache/blob/main/Images/8%20Cache%20-%20Direct%20Map.png?raw=true) 
+
+## Two-set Associative
+
+
+![alt text](https://github.com/Myakubek/Verilog-Cache/blob/main/Images/4%20Cache%20-%20Two%20set.png?raw=true) 
+
+![alt text](https://github.com/Myakubek/Verilog-Cache/blob/main/Images/8%20Cache%20-%20Two%20Set.png?raw=true) 
+
+## Fully Associative
+
+
+![alt text](https://github.com/Myakubek/Verilog-Cache/blob/main/Images/4%20Cache%20-%20Fully%20Assoc.png?raw=true) 
+
+
+![alt text](https://github.com/Myakubek/Verilog-Cache/blob/main/Images/8%20Cache%20-%20Fully%20Assoc.png?raw=true) 
+
+## Outputs
+
+![alt text](https://github.com/Myakubek/Verilog-Cache/blob/main/Images/4%20Cache%20-%20Output.png?raw=true) 
+
+![alt text](https://github.com/Myakubek/Verilog-Cache/blob/main/Images/8%20Cache%20-%20Output.png?raw=true) 
+
+
+
